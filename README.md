@@ -4,7 +4,7 @@ Using Jupyter Notebook, CityPy API, Google's APIs, Pandas, Python and Numpy
 
 ## Challenge 1: Create Weather Database
 Being able to create city data using the CityPy API, was incredibly fast. 
-When I think about how long this would have taken to just find the cities, I can see the maps, tools surrounding me. Up on the wall I see the minute and hour hands turn. The days turn into weeks; #### and finally, between the third and fourth week, I am done. I am totally exhausted.  
+When I think about how long this would have taken to just find the cities, I can see the maps, tools surrounding me. Up on the wall I see the minute and hour hands turn. The days turn into weeks; and finally, between the third and fourth week, I am done. I am totally exhausted.  
 
 ### City Database: 
 ![](Images/CityDatabase.png)
