@@ -1,4 +1,4 @@
-# World_Weather_Analysis
+# World_Weather_Analysis - weather database and map visualization for vacation search and vacation itinerary
 Using Jupyter Notebook, CityPy API, Google's APIs, Pandas, Python and Numpy
 ## Module 6 Challenges
 
