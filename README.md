@@ -1,5 +1,4 @@
 # World_Weather_Analysis 
-
 Create weather database and map visualization for vacation search and vacation itinerary using Jupyter Notebook, CityPy API, Google's APIs, Pandas, Python and Numpy
 
 ## Create Weather Database
